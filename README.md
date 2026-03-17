@@ -1,1 +1,1 @@
-PharmTCAS (Pharmcu86's The pharmaCeutical Apprenticeship selection System)
+PharmTCAS (Pharmcu86's The pharmaCeuticAl internship selection System)
